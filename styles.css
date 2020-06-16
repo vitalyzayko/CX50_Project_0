@@ -1,0 +1,37 @@
+
+	h1 {
+		color: #3322ee; 
+		text-align: center;
+	}
+	li {
+		color: #5522ff
+		text-align: right;
+	}
+	table {
+		border: 2px solid blue;
+		border-collapse: collapse;
+		width: 50%
+	}
+	th, td {
+		text-align: center;
+		border: 1px solid magenta;
+		padding: 5px
+	}
+	th {
+
+		background-color: lightgray;
+	}
+
+	#top {
+		font-size: 36px;
+	}
+	#middle {
+		font-size: 24px;
+	}
+	#bottom {
+		font-size: 12px;
+	}
+	.name {
+		font-weight: bold;
+	}
+
